@@ -1,5 +1,9 @@
 [
     {
+        "name": "ZTE RedMagic Tablet 3 Pro",
+        "link": "https://www.gsmarena.com/zte_redmagic_tablet_3_pro-13939.php"
+    },
+    {
         "name": "ZTE nubia RedMagic 10S Pro",
         "link": "https://www.gsmarena.com/zte_nubia_redmagic_10spro_5g-13906.php"
     },
@@ -14,9 +18,5 @@
     {
         "name": "Sharp Aquos R10",
         "link": "https://www.gsmarena.com/sharp_aquos_r10_5g-13934.php"
-    },
-    {
-        "name": "Realme C71",
-        "link": "https://www.gsmarena.com/realme_c71-13931.php"
     }
 ]
