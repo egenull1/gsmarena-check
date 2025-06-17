@@ -1,11 +1,15 @@
 [
     {
-        "name": "Xiaomi Poco F7",
-        "link": "https://www.gsmarena.com/xiaomi_poco_f7_5g-13951.php"
+        "name": "vivo iQOO Z10 Lite",
+        "link": "https://www.gsmarena.com/vivo_iqoo_z10_lite_5g-13959.php"
     },
     {
         "name": "Trump Mobile T1 Phone",
         "link": "https://www.gsmarena.com/_trump_mobile_t1_phone-13958.php"
+    },
+    {
+        "name": "Xiaomi Poco F7",
+        "link": "https://www.gsmarena.com/xiaomi_poco_f7_5g-13951.php"
     },
     {
         "name": "Fairphone 6",
@@ -14,9 +18,5 @@
     {
         "name": "Realme Narzo 80 Lite",
         "link": "https://www.gsmarena.com/realme_narzo_80_lite_5g-13952.php"
-    },
-    {
-        "name": "Infinix Smart 10 Plus",
-        "link": "https://www.gsmarena.com/infinix_smart_10_plus-13953.php"
     }
 ]
