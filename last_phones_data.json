@@ -1,5 +1,9 @@
 [
     {
+        "name": "Xiaomi Redmi K Pad",
+        "link": "https://www.gsmarena.com/xiaomi_redmi_k_pad-13960.php"
+    },
+    {
         "name": "vivo iQOO Z10 Lite",
         "link": "https://www.gsmarena.com/vivo_iqoo_z10_lite_5g-13959.php"
     },
@@ -14,9 +18,5 @@
     {
         "name": "Fairphone 6",
         "link": "https://www.gsmarena.com/fairphone_6-13955.php"
-    },
-    {
-        "name": "Realme Narzo 80 Lite",
-        "link": "https://www.gsmarena.com/realme_narzo_80_lite_5g-13952.php"
     }
 ]
