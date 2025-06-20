@@ -1,5 +1,9 @@
 [
     {
+        "name": "Samsung Galaxy M36",
+        "link": "https://www.gsmarena.com/samsung_galaxy_m36_5g-13967.php"
+    },
+    {
         "name": "Xiaomi Redmi K80 Ultra",
         "link": "https://www.gsmarena.com/xiaomi_redmi_k80_ultra_5g-13965.php"
     },
@@ -14,9 +18,5 @@
     {
         "name": "vivo iQOO Z10 Lite",
         "link": "https://www.gsmarena.com/vivo_iqoo_z10_lite_5g-13959.php"
-    },
-    {
-        "name": "Infinix Smart 10 Plus",
-        "link": "https://www.gsmarena.com/infinix_smart_10_plus-13953.php"
     }
 ]
