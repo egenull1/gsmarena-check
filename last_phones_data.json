@@ -1,10 +1,14 @@
 [
     {
+        "name": "Xiaomi Poco F7",
+        "link": "https://www.gsmarena.com/xiaomi_poco_f7_5g-13951.php"
+    },
+    {
         "name": "Tecno Pova 7 Ultra",
         "link": "https://www.gsmarena.com/tecno_pova_7_ultra_5g-13976.php"
     },
     {
-        "name": "Tecno Pova 7",
+        "name": "Tecno Pova 7 4G",
         "link": "https://www.gsmarena.com/tecno_pova_7-13974.php"
     },
     {
@@ -14,9 +18,5 @@
     {
         "name": "vivo T4 Lite",
         "link": "https://www.gsmarena.com/vivo_t4_lite_5g-13961.php"
-    },
-    {
-        "name": "vivo X200 FE",
-        "link": "https://www.gsmarena.com/vivo_x200_fe_5g-13847.php"
     }
 ]
