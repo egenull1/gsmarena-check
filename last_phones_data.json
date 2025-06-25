@@ -1,5 +1,9 @@
 [
     {
+        "name": "Fairphone 6",
+        "link": "https://www.gsmarena.com/fairphone_6-13955.php"
+    },
+    {
         "name": "Oppo K13x",
         "link": "https://www.gsmarena.com/oppo_k13x_5g-13978.php"
     },
@@ -8,15 +12,11 @@
         "link": "https://www.gsmarena.com/oppo_reno14_f_5g-13977.php"
     },
     {
-        "name": "Fairphone 6",
-        "link": "https://www.gsmarena.com/fairphone_6-13955.php"
+        "name": "vivo X Fold5",
+        "link": "https://www.gsmarena.com/vivo_x_fold5_5g-13858.php"
     },
     {
         "name": "Xiaomi Poco F7",
         "link": "https://www.gsmarena.com/xiaomi_poco_f7_5g-13951.php"
-    },
-    {
-        "name": "Tecno Pova 7 Ultra",
-        "link": "https://www.gsmarena.com/tecno_pova_7_ultra_5g-13976.php"
     }
 ]
