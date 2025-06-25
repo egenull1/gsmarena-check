@@ -1,5 +1,9 @@
 [
     {
+        "name": "Oppo Reno14 F",
+        "link": "https://www.gsmarena.com/oppo_reno14_f_5g-13977.php"
+    },
+    {
         "name": "Xiaomi Poco F7",
         "link": "https://www.gsmarena.com/xiaomi_poco_f7_5g-13951.php"
     },
@@ -14,9 +18,5 @@
     {
         "name": "Tecno Spark Go 2",
         "link": "https://www.gsmarena.com/tecno_spark_go_2-13975.php"
-    },
-    {
-        "name": "vivo T4 Lite",
-        "link": "https://www.gsmarena.com/vivo_t4_lite_5g-13961.php"
     }
 ]
