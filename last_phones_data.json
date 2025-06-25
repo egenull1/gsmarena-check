@@ -1,7 +1,15 @@
 [
     {
+        "name": "Oppo K13x",
+        "link": "https://www.gsmarena.com/oppo_k13x_5g-13978.php"
+    },
+    {
         "name": "Oppo Reno14 F",
         "link": "https://www.gsmarena.com/oppo_reno14_f_5g-13977.php"
+    },
+    {
+        "name": "Fairphone 6",
+        "link": "https://www.gsmarena.com/fairphone_6-13955.php"
     },
     {
         "name": "Xiaomi Poco F7",
@@ -10,13 +18,5 @@
     {
         "name": "Tecno Pova 7 Ultra",
         "link": "https://www.gsmarena.com/tecno_pova_7_ultra_5g-13976.php"
-    },
-    {
-        "name": "Tecno Pova 7 4G",
-        "link": "https://www.gsmarena.com/tecno_pova_7-13974.php"
-    },
-    {
-        "name": "Tecno Spark Go 2",
-        "link": "https://www.gsmarena.com/tecno_spark_go_2-13975.php"
     }
 ]
