@@ -1,5 +1,13 @@
 [
     {
+        "name": "Google Pixel 10",
+        "link": "https://www.gsmarena.com/google_pixel_10_5g-13979.php"
+    },
+    {
+        "name": "vivo X Fold5",
+        "link": "https://www.gsmarena.com/vivo_x_fold5_5g-13858.php"
+    },
+    {
         "name": "Fairphone 6",
         "link": "https://www.gsmarena.com/fairphone_6-13955.php"
     },
@@ -10,13 +18,5 @@
     {
         "name": "Oppo Reno14 F",
         "link": "https://www.gsmarena.com/oppo_reno14_f_5g-13977.php"
-    },
-    {
-        "name": "vivo X Fold5",
-        "link": "https://www.gsmarena.com/vivo_x_fold5_5g-13858.php"
-    },
-    {
-        "name": "Xiaomi Poco F7",
-        "link": "https://www.gsmarena.com/xiaomi_poco_f7_5g-13951.php"
     }
 ]
